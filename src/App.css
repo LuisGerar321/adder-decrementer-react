@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  height: 102vh;
+  margin-top: -2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-logo {
@@ -35,4 +42,37 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.CounterContainer {
+  height: 10em;
+  width: 20em;
+  display: flex;
+  justify-content: center;
+}
+
+.NumberContainer {
+  height: 6em;
+  width: 6em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  border-radius: 50%;
+  margin: auto auto;
+  color: white;
+}
+
+.Button {
+  height: 6em;
+  width: 6em;
+  background-color: rgb(211, 233, 68);
+  border-radius: 50%;
+  margin: auto auto;
+  color: rgb(0, 0, 0);
+  font-size: 1em;
+}
+
+.Button:hover {
+  background-color: rgba(211, 233, 68, 0.426);
 }
