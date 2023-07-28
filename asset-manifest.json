@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adder-decrementer-react/static/css/main.9daafa8a.css",
+    "main.js": "/adder-decrementer-react/static/js/main.6d80854c.js",
+    "static/js/787.e458d2a5.chunk.js": "/adder-decrementer-react/static/js/787.e458d2a5.chunk.js",
+    "static/media/logo.svg": "/adder-decrementer-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/adder-decrementer-react/index.html",
+    "main.9daafa8a.css.map": "/adder-decrementer-react/static/css/main.9daafa8a.css.map",
+    "main.6d80854c.js.map": "/adder-decrementer-react/static/js/main.6d80854c.js.map",
+    "787.e458d2a5.chunk.js.map": "/adder-decrementer-react/static/js/787.e458d2a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9daafa8a.css",
+    "static/js/main.6d80854c.js"
+  ]
+}
